@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Building Apps using Laravel + VueJs <br>😎 Fintech Startup<br>🤙 Point of Sale System For SMS<br>🔥 Fullstack Dev<br>
+🚀 Building Apps using Laravel + VueJs <br>😎 Fintech Startup<br>🤙 Point of Sale System For SMeS<br>🔥 Fullstack Dev<br>
 
 
 ## 🌐 Socials:
